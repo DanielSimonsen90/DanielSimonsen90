@@ -45,43 +45,5 @@ Besides, most people dislike JavaScript for the fact it isn't 100% type dependen
 ***
 
 <p align="center">
-  <img id="danielSimonsen90Activity" align="center"/>
+  <img id="danielSimonsen90Activity" align="center" src="https://github-readme-stats.vercel.app/api?username=danielsimonsen90&show_icons=true&count_private=true&hide_border=true&icon:color=999&bg_color=404040&title_color=FF5132&text_color=B7B7B7"/>
 </p>
-
-<script>
-const linkOptions: {
-    default: {
-        "show_icons": "true",
-        "count_private": "true",
-        "hide_border": "true",
-        "icon_color": "fff"
-        "bg_color": "05B281"
-        "title_color": "fff"
-        "text_color": "fff"
-    },
-    custom: {
-        "icon_color": "999999"
-        "bg_color": "404040"
-        "title_color": "FF5132"
-        "text_color": "B7B7B7"
-    }
-}
-
-let useDefault = false;
-let link = "https://github-readme-stats.vercel.app/api?username=danielsimonsen90&"
-let linkParams = useDefault ? 
-    linkOptions.default : 
-    Object.keys(linkOptions).reduce((result, current) => {
-        const { custom } = linkOptions
-        result[current] = custom[current] !== null ? custom[current] : linkOptions.default[current];
-    }, {});
-
-link += Object.keys(linkParams)
-    .map(prop => `${prop}=${linkParams[prop]}`)
-    .join('&');
-
-let img = document.getElementById('danielSimonsen90Activity');
-if (!img) return;
-
-img.src = link;
-</script>
