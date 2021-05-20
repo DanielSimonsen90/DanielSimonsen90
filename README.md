@@ -31,15 +31,17 @@ Besides, most people dislike JavaScript for the fact it isn't 100% type dependen
 ***
 
 ## Links
-[<img alt="Pingu Invite" src="https://media.discordapp.net/attachments/791312246063104033/844436535813734400/The_Blogger.png" width="32px" height="32px" />](https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot)
-<a href="https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot">Pingu Invite</a>
+<img alt="Pingu Invite" src="https://media.discordapp.net/attachments/791312246063104033/844436535813734400/The_Blogger.png" width="32px" height="32px" />
+<a href="https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot" style="font-size="32px">Pingu Invite</a>
+<br />
 
+<img alt="Pingu Support Server" src="https://media.discordapp.net/attachments/805500972305612851/835532058679574549/Badge_Support_Team.png" width="32px" height="32px" />
+<a href="https://discord.gg/gbxRV4Ekvh" style="font-size="32px">Pingu Support Server</a>
 <br />
-[<img alt="Pingu Support Server" src="https://media.discordapp.net/attachments/805500972305612851/835532058679574549/Badge_Support_Team.png" width="32px" height="32px" />](https://discord.gg/gbxRV4Ekvh)
-<a href="https://discord.gg/gbxRV4Ekvh">Pingu Support Server</a>
+
+<img alt="Portfolio Website" src="https://danhosaurportfolio.azurewebsites.net/Images/Logo.png" width="32px" height="32px" />
+<a href="https://danhosaurportfolio.azurewebsites.net/" style="font-size="32px">Portfolio Website</a>
 <br />
-[<img alt="Portfolio Website" src="https://danhosaurportfolio.azurewebsites.net/Images/Logo.png" width="32px" height="32px" />](https://danhosaurportfolio.azurewebsites.net/)
-<a href="https://danhosaurportfolio.azurewebsites.net/">Portfolio Website</a>
 
 ***
 
@@ -51,5 +53,5 @@ Besides, most people dislike JavaScript for the fact it isn't 100% type dependen
 ***
 
 <p align="center">
-  <img id="danielSimonsen90Activity" align="center" src="https://github-readme-stats.vercel.app/api?username=danielsimonsen90&show_icons=true&count_private=true&hide_border=true&icon_color=999999&bg_color=121821&title_color=FF5132&text_color=B7B7B7"/>
+  <img id="danielSimonsen90Activity" align="center" src="https://github-readme-stats.vercel.app/api?username=danielsimonsen90&show_icons=true&count_private=true&hide_border=true&icon_color=C1C1C1&bg_color=121821&title_color=FF5132&text_color=B7B7B7"/>
 </p>
