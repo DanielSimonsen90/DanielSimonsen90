@@ -1,3 +1,5 @@
+<div id="DanielSimonsen90-github-content" align="center">
+
 # DanielSimonsen90
 ### C# • JavaScript • TypeScript • HTML 
 
@@ -31,7 +33,7 @@ Besides, most people dislike JavaScript for the fact it isn't 100% type dependen
 ***
 
 ## Links
-<div name="DanielSimonsen90-links" align="center">
+<div name="DanielSimonsen90-links">
     <a href="https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot">Pingu Invite</a> 
     • 
     <a href="https://discord.gg/gbxRV4Ekvh">Pingu Support Server</a> 
@@ -46,6 +48,8 @@ Besides, most people dislike JavaScript for the fact it isn't 100% type dependen
 ***
 
 ## Github Stats
-<p align="center">
+<p>
   <img id="danielSimonsen90Activity" align="center" src="https://github-readme-stats.vercel.app/api?username=danielsimonsen90&show_icons=true&count_private=true&hide_border=true&icon_color=E0E0E0&bg_color=121821&title_color=FF5132&text_color=C1C1C1"/>
 </p>
+
+</div>
