@@ -45,5 +45,5 @@ Besides, most people dislike JavaScript for the fact it isn't 100% type dependen
 ***
 
 <p align="center">
-  <img id="danielSimonsen90Activity" align="center" src="https://github-readme-stats.vercel.app/api?username=danielsimonsen90&show_icons=true&count_private=true&hide_border=true&icon:color=999&bg_color=404040&title_color=FF5132&text_color=B7B7B7"/>
+  <img id="danielSimonsen90Activity" align="center" src="https://github-readme-stats.vercel.app/api?username=danielsimonsen90&show_icons=true&count_private=true&hide_border=true&icon:color=999999&bg_color=202020&title_color=FF5132&text_color=B7B7B7"/>
 </p>
