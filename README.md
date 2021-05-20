@@ -27,7 +27,7 @@ My plan for Pingu, is for him to become the best Discord bot with famous feature
 * [Miki](https://top.gg/bot/miki)'s daily streaks, chat achievements & ability to marry a member
 
 ### Favorite language?
-JavaScript.
+JavaScript. <br />
 Even though I'm taught in C# in school, ever since I got into JavaScript and TypeScript, I felt like there was finally a language that did what I wanted in an easy way.
 I also really enjoy coding in C#, but in terms of async code, handling events, being able to only give the programmer very specific parameter options using TypeScript's "type" keyword, the simplicity of making an array/object and let alone the spread syntax (...), are all situations I much rather would use JavaScript than C#.
 Besides, most people dislike JavaScript for the fact it isn't 100% type dependent, which I can understand, but it doesn't bother me personally, as all I want is being able to see what type of object I'm dealing with - and I can still do that either by using TypeScript or by defining a summary for the function I'm in.
