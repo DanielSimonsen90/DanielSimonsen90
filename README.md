@@ -7,13 +7,23 @@
 
 ## Info
 ### How did you come up with your name?
+<div class="qna-answer" align="left">
+
 My name is Daniel Simonsen, and my iconic number is 90 so put those together and there we go.
 
+</div>
+
 ### What caught your interest into coding?
+<div class="qna-answer" align="left">
+
 Ever since I was introduced to Minecraft's redstone mechanics, I loved to make my own contraptions, and as time passed by, moved on to simple Excel calculations and little RPG game designing using [RPG Maker XP](https://www.rpgmakerweb.com/products/rpg-maker-xp).
 Finally, I got the opportunity to be taught very basic HTML and your classic traffic light assignment using C - this is where I knew I wanted to keep programming and therefore started my "Datatechnician with Speciality in Programming" education.
 
+</div>
+
 ### What is your favorite project?
+<div class="qna-answer" align="left">
+
 My favorite project is my Discord Bot, Pingu.
 Pingu is my first JavaScript project, which I incoporated a little TypeScript with.
 My plan for Pingu, is for him to become the best Discord bot with famous features from other bots like:
@@ -24,11 +34,17 @@ My plan for Pingu, is for him to become the best Discord bot with famous feature
 * [GiveawayBot](https://giveawaybot.party/)'s giveaways
 * [Miki](https://top.gg/bot/miki)'s daily streaks, chat achievements & ability to marry a member
 
+</div>
+
 ### Favorite language?
+<div class="qna-answer" align="left">
+
 JavaScript.
 Even though I'm taught in C# in school, ever since I got into JavaScript and TypeScript, I felt like there was finally a language that did what I wanted in an easy way.
 I also really enjoy coding in C#, but in terms of async code, handling events, being able to only give the programmer very specific parameter options using TypeScript's "type" keyword, the simplicity of making an array/object and let alone the spread syntax (...), are all situations I much rather would use JavaScript than C#.
 Besides, most people dislike JavaScript for the fact it isn't 100% type dependent, which I can understand, but it doesn't bother me personally, as all I want is being able to see what type of object I'm dealing with - and I can still do that either by using TypeScript or by defining a summary for the function I'm in.
+
+</div>
 
 ***
 
