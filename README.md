@@ -31,23 +31,19 @@ Besides, most people dislike JavaScript for the fact it isn't 100% type dependen
 ***
 
 ## Links
-| 
 <a href="https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot">Pingu Invite</a> 
 • 
 <a href="https://discord.gg/gbxRV4Ekvh">Pingu Support Server</a> 
 • 
 <a href="https://danhosaurportfolio.azurewebsites.net/">Portfolio Website</a> 
-|
+• 
+<a href="https://discord.com/channels/@me/245572699894710272">Discord: Danho#2105</a>
+• 
+<a href="mailto:danielsimonsen90@gmail.com">Email</a>
 
 ***
 
-## Contact
-**If you wish to contact me, you can do so by using my:**
-* [Discord](https://discord.com/channels/@me/245572699894710272)
-* [Email](mailto:danielsimonsen90)
-
-***
-
+## __Github Stats__
 <p align="center">
   <img id="danielSimonsen90Activity" align="center" src="https://github-readme-stats.vercel.app/api?username=danielsimonsen90&show_icons=true&count_private=true&hide_border=true&icon_color=E0E0E0&bg_color=121821&title_color=FF5132&text_color=C1C1C1"/>
 </p>
