@@ -31,32 +31,16 @@ Besides, most people dislike JavaScript for the fact it isn't 100% type dependen
 ***
 
 ## Links
-<img src="https://media.discordapp.net/attachments/791312246063104033/844436535813734400/The_Blogger.png" 
-    alt="Pingu Invite" 
-    width="32px" height="32px" 
-    style="display:inline" 
-/>
-<a href="https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot" 
-    style="font-size="32px"
->Pingu Invite</a>
+<img src="https://media.discordapp.net/attachments/791312246063104033/844436535813734400/The_Blogger.png" alt="Pingu Invite" width="32px" height="32px" style="display:inline" />
+<a href="https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot" style="font-size="32px">Pingu Invite</a>
 <br />
 
-<img alt="Pingu Support Server" src="https://media.discordapp.net/attachments/805500972305612851/835532058679574549/Badge_Support_Team.png" 
-    width="32px" height="32px" 
-/>
-<a href="https://discord.gg/gbxRV4Ekvh" 
-    style="font-size="32px"
->Pingu Support Server</a>
+<img alt="Pingu Support Server" src="https://media.discordapp.net/attachments/805500972305612851/835532058679574549/Badge_Support_Team.png" width="32px" height="32px" />
+<a href="https://discord.gg/gbxRV4Ekvh" style="font-size="32px" >Pingu Support Server</a>
 <br />
 
-<img src="https://danhosaurportfolio.azurewebsites.net/Images/Logo.png"
-    alt="Portfolio Website" 
-    width="32px" height="32px" 
-    style="display:inline"
-/>
-<a href="https://danhosaurportfolio.azurewebsites.net/" 
-    style="font-size="32px"
->Portfolio Website</a>
+<img src="https://danhosaurportfolio.azurewebsites.net/Images/Logo.png" alt="Portfolio Website" width="32px" height="32px" style="display:inline" />
+<a href="https://danhosaurportfolio.azurewebsites.net/" style="font-size="32px" >Portfolio Website</a>
 <br />
 
 ***
