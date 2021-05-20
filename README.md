@@ -31,7 +31,13 @@ Besides, most people dislike JavaScript for the fact it isn't 100% type dependen
 ***
 
 ## Links
-| <a href="https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot">Pingu Invite</a> • <a href="https://discord.gg/gbxRV4Ekvh">Pingu Support Server</a> • <a href="https://danhosaurportfolio.azurewebsites.net/">Portfolio Website</a> |
+| 
+<a href="https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot">Pingu Invite</a> 
+• 
+<a href="https://discord.gg/gbxRV4Ekvh">Pingu Support Server</a> 
+• 
+<a href="https://danhosaurportfolio.azurewebsites.net/">Portfolio Website</a> 
+|
 
 ***
 
