@@ -31,7 +31,7 @@ Besides, most people dislike JavaScript for the fact it isn't 100% type dependen
 ***
 
 ## Links
-<div name="DanielSimonsen90-links" style="text-align: center">
+<div name="DanielSimonsen90-links" align="center">
     <a href="https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot">Pingu Invite</a> 
     • 
     <a href="https://discord.gg/gbxRV4Ekvh">Pingu Support Server</a> 
