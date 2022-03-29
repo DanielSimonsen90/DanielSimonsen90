@@ -38,7 +38,7 @@ There are so many amazing things to TypeScript, and I find myself preferring it 
 ***
 
 ## Links
-<div name="DanielSimonsen90-links">
+<div class="DanielSimonsen90-links">
     <a href="https://discord.com/api/oauth2/authorize?client_id=562176550674366464&permissions=8&scope=applications.commands%20bot">Pingu Invite</a> • 
     <a href="https://discord.gg/gbxRV4Ekvh">Pingu Support Server</a> • 
     <a href="https://danhosaurportfolio.azurewebsites.net/">Portfolio Website ASP.NET</a> • 
@@ -56,3 +56,11 @@ There are so many amazing things to TypeScript, and I find myself preferring it 
 </div>
 
 </div>
+
+<style>
+    .DanielSimonsen90-links {
+        display: flex;
+        flex-direction: row;
+        gap: .25em;
+    }
+</style>
