@@ -54,13 +54,5 @@ There are so many amazing things to TypeScript, and I find myself preferring it 
   <img id="DanielSimonsen90-activity" align="center" src="https://github-readme-stats.vercel.app/api?username=danielsimonsen90&show_icons=true&count_private=true&hide_border=true&icon_color=E0E0E0&bg_color=121821&title_color=FF5132&text_color=C1C1C1"/>
     <img id="danielsimonsen90-languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsimonsen90&show_icons=true&count_private=true&hide_border=true&icon_color=E0E0E0&bg_color=121821&title_color=FF5132&text_color=C1C1C1&layout=compact" />
 </div>
-
+    
 </div>
-
-<style>
-    .DanielSimonsen90-links {
-        display: flex;
-        flex-direction: row;
-        gap: .25em;
-    }
-</style>
