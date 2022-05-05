@@ -43,7 +43,7 @@ There are so many amazing things to TypeScript, and I find myself preferring it 
     <a href="https://discord.gg/gbxRV4Ekvh">Pingu Support Server</a> • 
     <a href="https://danhosaurportfolio.azurewebsites.net/">Portfolio Website ASP.NET</a> • 
     <a href="https://danhosaurportfolioii.netlify.app/">Portfolio Website Vue.js</a> • 
-    <a href="https://discord.com/channels/@me/245572699894710272">Discord: Danho#2105</a> • 
+    <a href="https://discord.com/channels/@me/408739048551743498">Discord: Danho#2105</a> • 
     <a href="mailto:danielsimonsen90@gmail.com">Email</a>
 </div>
 
